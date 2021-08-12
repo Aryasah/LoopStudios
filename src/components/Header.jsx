@@ -118,6 +118,7 @@ const InsideBurger =styled.div`
     }
     a{
         font-weight:600;
+        color:#fff;
     }
 `
 const BurgerNav =styled.div`
